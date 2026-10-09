@@ -167,7 +167,7 @@ local languageAliases = {
 -- ===== Update settings =====
 -- CURRENT_VERSION is the version shown in About. It is changed automatically
 -- when an update is installed (it is set to the number found in version.txt).
-CURRENT_VERSION = "1.3"
+CURRENT_VERSION = "1.4"
 UPDATER = {
   -- Raw GitHub links (the raw form of the blob links, so the real file is downloaded).
   versionUrl = "https://raw.githubusercontent.com/nabeelhafiz229-afk/World-radio.-/main/version.txt",
