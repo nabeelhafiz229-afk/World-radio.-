@@ -1,3 +1,0 @@
-Just Music FM 106.2	https://radio.garden/api/ara/content/listen/jVA6RRGl/channel.mp3
-My Channel 3	https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12&#039;,&#039;DescriptiveWindowName&#039;,&#039;height=400
-Kids	https://whmsonic.radio.gov.pk:7000/Kids
